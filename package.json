@@ -1,0 +1,23 @@
+{
+  "name": "cc-attribute-remover",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./lib/attributeRemover.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Code Chemistry Inc.",
+  "license": "ISC",
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {
+    "@types/cheerio": "^0.22.8",
+    "@types/mocha": "^5.2.5",
+    "cheerio": "^1.0.0-rc.2",
+    "mocha": "^5.2.0"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  }
+}
